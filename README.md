@@ -9,3 +9,6 @@ can input the value of 11 features (e.g. pH, density, sulphates, citric acidity.
 and a 'Good' or 'Bad' message will pop up as a result of the prediction. 
 
 The original python code for the ML is Project4.ipynb in the redwine_predictor folder.
+
+The web app is deployed through streamlit, click on link below to check it out!
+https://jgtann-project4-redwine-predictorstreamlit2-e3gl40.streamlit.app/
