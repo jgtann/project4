@@ -8,6 +8,6 @@ for the prediction of 'good' or 'bad' red wine.  The web app is designed to be i
 can input the value of 11 features (e.g. pH, density, sulphates, citric acidity...), click on predict button,
 and a 'Good' or 'Bad' message will pop up as a result of the prediction. 
 
-The original python code for the ML is Project4.ipynb in the redwine_predictor folder.
+Open the Project4.ipynb for the python file that builds the ML classification model.
 
 Using the streamlit framework, the prototype app is also set for deployment. Simply download the streamlit2.py file, ensure that streamlit library is available in your computer, open command prompt, type streamlit run streamlit2.py.  And voilah! Here's the ML web app! Enjoy!
