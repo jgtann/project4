@@ -10,5 +10,4 @@ and a 'Good' or 'Bad' message will pop up as a result of the prediction.
 
 The original python code for the ML is Project4.ipynb in the redwine_predictor folder.
 
-The web app is deployed through streamlit, click on link below to check it out!
-https://jgtann-project4-redwine-predictorstreamlit2-e3gl40.streamlit.app/
+Using the streamlit framework, the prototype app is also set for deployment. Simply download the streamlit2.py file, ensure that streamlit library is available in your computer, open command prompt, type streamlit run streamlit2.py.  And voilah! Here's the ML web app! Enjoy!
