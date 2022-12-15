@@ -7,3 +7,5 @@ The objective for this project is to build a prediction model (classification), 
 for the prediction of 'good' or 'bad' red wine.  The web app is designed to be interactive, whereby user
 can input the value of 11 features (e.g. pH, density, sulphates, citric acidity...), click on predict button,
 and a 'Good' or 'Bad' message will pop up as a result of the prediction. 
+
+The original python code for the ML is Project4.ipynb in the redwine_predictor folder.
