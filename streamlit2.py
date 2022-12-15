@@ -4,9 +4,6 @@ import numpy as np
 import pickle # to load a saved model
 import base64 # to open .gif files in streamlit
 
-import seaborn as sns
-import matplotlib.pyplot as plt
-
 
 # Set the navigation
 # Home page: show data selected, preparation and modelling
