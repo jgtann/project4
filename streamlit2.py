@@ -4,6 +4,16 @@ import numpy as np
 import pickle # to load a saved model
 import base64 # to open .gif files in streamlit
 
+from sklearn.model_selection import train_test_split
+
+from sklearn.linear_model import LogisticRegression
+from sklearn import svm
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+
 # Set the navigation
 # Home page: show data selected, preparation and modelling
 # Prediction page: allow input of features, and click predict button to show 'Good'/'Bad' wine
